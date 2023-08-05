@@ -12,4 +12,3 @@ categories: [work]
 <p><a href="https://vimeo.com/383757668">RollpaperSynth</a> from <a href="https://vimeo.com/jeonghopark">JeongHo Park</a> on <a href="https://vimeo.com">Vimeo</a>.</p>           
 <iframe src="https://player.vimeo.com/video/383758274" width="740" height="415" frameborder="" rameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/383758274">RollpaperSynth</a> from <a href="https://vimeo.com/jeonghopark">JeongHo Park</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
----

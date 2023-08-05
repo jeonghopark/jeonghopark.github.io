@@ -14,4 +14,3 @@ categories: [work]
 
 Sequence movie
 <iframe src="https://player.vimeo.com/video/380835335" width="740" height="415" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
----

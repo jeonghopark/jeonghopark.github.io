@@ -9,4 +9,3 @@ Sonification 기본 코드를 이용하였다. Roll papaer 에 스케치한 그�
 
 <iframe src="https://player.vimeo.com/video/381152333" width="740" height="415" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/381152333">RollpaperSynth</a> from <a href="https://vimeo.com/jeonghopark">JeongHo Park</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
----
