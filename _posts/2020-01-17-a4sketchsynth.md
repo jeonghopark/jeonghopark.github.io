@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A4 sketch music generator
-date: 2020-01-17
+date: 2020-01-17 11:04
 categories: [work]
 ---
 프로젝트 제목 짓는 센스가 엉망이지만, 어쨋든 이번엔 같은 방식으로 A4 용지 규격에 그린 후, 스캔 처리하여 사용.       

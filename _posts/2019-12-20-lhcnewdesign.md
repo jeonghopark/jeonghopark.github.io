@@ -2,7 +2,7 @@
 layout: post
 title: LHC (CERN) New Design
 description: "Fri Dec 20 13:18:07 2019"
-date: 2019-12-20
+date: 2019-12-20 09:40
 categories: [work]
 ---
 거의 정확히 1년 만에 업데이트다.         

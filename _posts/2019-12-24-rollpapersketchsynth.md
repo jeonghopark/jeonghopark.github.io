@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roll paper sketch synth
-date: 2019-12-24
+date: 2019-12-24 12:08
 categories: [work]
 ---
 Sonification 기본 코드를 이용하였다. Roll papaer 에 스케치한 그림을 스캔하여 실시간으로 음향적인 음악을 만든다.      

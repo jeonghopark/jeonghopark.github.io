@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dairy sketch music generator
-date: 2020-01-10
+date: 2020-01-10 12:00
 categories: [work]
 ---
 같은 사운드 알고리즘을 사용하여 일기 형식의 음악을 생성하는 프로토타입 제작.         
