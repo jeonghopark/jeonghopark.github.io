@@ -9,10 +9,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: JeongHo Park # add your name
-author-img: jeonghopark_760x760_red_b_edit_s.jpg # add your photo
+author-img: jeonghopark_760x760_red_b_edit_bw.jpg # add your photo
 about-author: Artist working with Code, Algorithmic Composer, Lecturer # add description
 social-twitter: jeonghopark # add your Twitter handle
-social-facebook: jeonghopark.net # add your Facebook handle
+# social-facebook: jeonghopark.net # add your Facebook handle
 social-instagram: jeonghopark # add your Instagram handle
 social-github: jeonghopark # add your Github handle
 social-email: jeonghopark@jeonghopark.de # add your Email address
