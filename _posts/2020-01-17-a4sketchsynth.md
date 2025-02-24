@@ -15,14 +15,8 @@ tags: [work, creativecoding] # add tag
 
 ![/assets/images/2020/a4_scan_music_generator.jpeg](/assets/images/2020/a4_scan_music_generator.jpeg)             
 
-<iframe src="https://player.vimeo.com/video/385523574" width="970" height="615" frameborder="" rameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/385523574" width="970" height="500" frameborder="" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/385523574">RollpaperSynth</a> from <a href="https://vimeo.com/jeonghopark">JeongHo Park</a> on <a href="https://vimeo.com">Vimeo</a>.</p>           
+<iframe src="https://player.vimeo.com/video/385524031" width="970" height="500" frameborder="" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/385524031" width="970" height="615" frameborder="" rameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/385524031">RollpaperSynth</a> from <a href="https://vimeo.com/jeonghopark">JeongHo Park</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/385524305" width="970" height="615" frameborder="" rameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/385524305">RollpaperSynth</a> from <a href="https://vimeo.com/jeonghopark">JeongHo Park</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/385524305" width="970" height="500" frameborder="" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

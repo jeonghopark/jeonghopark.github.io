@@ -18,10 +18,10 @@ social-github: jeonghopark # add your Github handle
 social-email: jeonghopark@jeonghopark.de # add your Email address
 
 # Disqus
-discus-identifier: # add your discus identifier
+# discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+# analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown

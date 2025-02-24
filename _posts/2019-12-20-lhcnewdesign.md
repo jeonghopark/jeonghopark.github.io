@@ -12,5 +12,5 @@ categories: [work]
 
 ![/assets/images/2019/lhc_new_design_02.jpg](/assets/images/2019/lhc_new_design_02.jpg)         
 
-Sequence movie
+
 <iframe src="https://player.vimeo.com/video/380835335" width="740" height="415" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
