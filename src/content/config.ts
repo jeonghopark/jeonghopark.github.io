@@ -8,6 +8,7 @@ const blogCollection = defineCollection({
         img: z.string().optional(), // Mapping legacy 'img' to this
         tags: z.array(z.string()).optional(),
         categories: z.array(z.string()).optional(),
+        draft: z.boolean().optional(),
     }),
 });
 
