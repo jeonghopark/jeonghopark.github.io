@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roll paper sketch synth
 date: 2019-12-24 12:08
 categories: [work]

@@ -1,0 +1,23 @@
+---
+title: "Hello Astro & Three.js"
+date: 2024-02-02
+description: "A demonstration of 3D content in Astro."
+img: "2020/a4_scan_music_generator.jpeg" # Reusing an existing image for now
+tags: ["tech", "threejs", "astro"]
+---
+
+# Welcome to the New Blog
+
+This is a **Markdown Component (MDX)** file. It allows us to embed interactive React or Astro components directly into the content.
+
+## Interactive 3D Demo
+
+Below is a live Three.js canvas running within this post context. It's fully responsive and performance-optimized.
+
+<ThreeCanvas />
+
+## How it works
+
+The component is lazy-loaded, meaning the JavaScript for the 3D engine only loads when this component is actually on the screen (if configured with client directives, though here it's static for simplicity or standard hydration).
+
+Enjoy your new creative coding playground!

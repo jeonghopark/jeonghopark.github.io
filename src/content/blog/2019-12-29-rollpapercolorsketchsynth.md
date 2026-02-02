@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roll paper color sketch duo synth
 date: 2019-12-30 21:45
 categories: [work]

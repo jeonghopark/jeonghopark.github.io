@@ -1,0 +1,62 @@
+---
+interface Props {
+    sketch?: string; // Name of the sketch to load (future proofing)
+}
+const { sketch } = Astro.props;
+---
+
+<div class="three-canvas-container w-full aspect-video bg-black/50 rounded-xl overflow-hidden border border-white/10 relative" data-sketch={sketch}>
+    <div class="absolute inset-0 flex items-center justify-center text-gray-500 pointer-events-none loading-text">
+        Loading 3D Sketch...
+    </div>
+    <canvas id="three-canvas" class="w-full h-full opacity-0 transition-opacity duration-1000"></canvas>
+</div>
+
+<script>
+    import * as THREE from 'three';
+
+    const containers = document.querySelectorAll('.three-canvas-container');
+
+    containers.forEach((container) => {
+        const canvas = container.querySelector('canvas');
+        if (!canvas) return;
+
+        // Basic Rotation Cube Example
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+        
+        renderer.setSize(container.clientWidth, container.clientHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+
+        const geometry = new THREE.IcosahedronGeometry(1, 0);
+        const material = new THREE.MeshBasicMaterial({ color: 0xffffff, wireframe: true });
+        const cube = new THREE.Mesh(geometry, material);
+        scene.add(cube);
+
+        camera.position.z = 3;
+
+        const animate = () => {
+            requestAnimationFrame(animate);
+            cube.rotation.x += 0.01;
+            cube.rotation.y += 0.01;
+            renderer.render(scene, camera);
+        };
+
+        animate();
+
+        // Reveal
+        canvas.classList.remove('opacity-0');
+        const loadingText = container.querySelector('.loading-text');
+        if(loadingText) loadingText.remove();
+
+        // Handle Resize
+        window.addEventListener('resize', () => {
+             const width = container.clientWidth;
+             const height = container.clientHeight;
+             renderer.setSize(width, height);
+             camera.aspect = width / height;
+             camera.updateProjectionMatrix();
+        });
+    });
+</script>

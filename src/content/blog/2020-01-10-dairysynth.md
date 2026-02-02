@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dairy Sketch Music Generator
 date: 2020-01-10 12:00
 categories: [work]

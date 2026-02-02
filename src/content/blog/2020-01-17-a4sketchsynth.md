@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A4 sketch music generator
 date: 2020-01-17 11:04
 categories: [work]

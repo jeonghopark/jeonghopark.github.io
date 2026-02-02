@@ -1,5 +1,4 @@
 ---
-layout: post
 title: LHC (CERN) New Design
 description: "Fri Dec 20 13:18:07 2019"
 date: 2019-12-20 09:40
