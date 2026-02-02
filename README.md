@@ -28,6 +28,11 @@ This is a modern portfolio website built with **Astro**, **Tailwind CSS**, and *
    ```
    The static files will be generated in the `dist/` directory.
 
+## Deployment
+
+This project is configured to deploy automatically to **GitHub Pages** using **GitHub Actions**.
+On every push to the `main` branch, the site will look for the `.github/workflows/deploy.yml` configuration and build/deploy the site.
+
 ## Project Structure
 - `src/content/blog`: Blog posts (Markdown/MDX).
 - `src/components`: Reusable components (Header, Footer, ThreeCanvas, etc).
